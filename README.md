@@ -1,4 +1,4 @@
-# federated-face-recognition: A Flower / PyTorch app
+# Federated Face Recognition
 
 This bachelor thesis project simulates **federated training** of the InceptionResNetV1 Face Recognition model using the dataset Labeled Faces in the Wild.
 
