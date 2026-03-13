@@ -2,11 +2,13 @@
 
 This bachelor thesis project simulates **federated training** of the InceptionResNetV1 Face Recognition model using the dataset Labeled Faces in the Wild.
 
-## 📄 Thesis Document
+## Thesis document
 The full experimental thesis (PDF) is available here:
 * [Read the Thesis](./thesis/thesis_federated_face_recognition_flower.pdf)
 
-## Install dependencies and project
+## Project
+
+### Install dependencies and project
 
 The dependencies are listed in the `pyproject.toml` and you can install them as follows:
 
@@ -14,7 +16,7 @@ The dependencies are listed in the `pyproject.toml` and you can install them as 
 pip install -e .
 ```
 
-## Run with the Simulation Engine
+### Run with the Simulation Engine
 
 In the `federated-face-recognition` directory, use `flwr run` to run a local simulation:
 
