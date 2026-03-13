@@ -1,10 +1,9 @@
 # Federated Face Recognition
 
-This bachelor thesis project simulates **federated training** of the InceptionResNetV1 Face Recognition model using the dataset Labeled Faces in the Wild.
+This bachelor thesis project simulates federated training of the InceptionResNetV1 Face Recognition model using the dataset Labeled Faces in the Wild.
 
 ## Thesis document
-The full experimental thesis (PDF) is available here:
-* [Read the Thesis](./thesis/thesis_federated_face_recognition_flower.pdf)
+The full experimental thesis (PDF) is available here: [Read the Thesis](./thesis/thesis_federated_face_recognition_flower.pdf)
 
 ## Project
 
